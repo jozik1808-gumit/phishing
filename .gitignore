@@ -1,0 +1,16 @@
+# Dataset (password-protected, obtain from the Phish360 authors) and derived caches
+data/raw/
+data/processed/
+!data/splits.json
+
+# Model weights and logs
+outputs/checkpoints/
+outputs/logs/
+*.pt
+*.pth
+
+# Python / editor
+__pycache__/
+*.pyc
+.venv/
+.vscode/

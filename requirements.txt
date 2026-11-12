@@ -1,0 +1,10 @@
+# PyTorch with CUDA: install first from https://pytorch.org/get-started/locally/ (tested: CUDA 12.8 build)
+torch==2.10.0
+torchvision==0.25.0
+transformers==5.20.2
+scikit-learn==1.7.2
+pandas==2.3.3
+pyarrow==24.0.0
+pillow==12.1.1
+beautifulsoup4==4.14.3
+numpy==2.2.6
